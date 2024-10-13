@@ -1,8 +1,6 @@
 # Revenue-Metrics-Analysis
 
-# Revenue-Metrics-Analysis
-
-![Dashboard Overview](https://github.com/ClaireC-15/Revenue-Metrics-Analysis/blob/95282f0260ae78fb1472228f0f948bd36581eb75/img/Dashboard.JPG)
+![Dashboard Overview](https://github.com/KCMcafe15/Revenue-Metrics-Analysis/blob/397774166505304f21bfccc82997144eec090331/img/Dashboard.JPG)
 
 [Click here](https://public.tableau.com/app/profile/karen.claire.cafe/viz/Project2RevenueMetrics_17172590693140/Dashboard) to view the Tableau dashboard
 
