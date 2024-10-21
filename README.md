@@ -5,6 +5,8 @@
 [Click here](https://public.tableau.com/app/profile/karen.claire.cafe/viz/Project2RevenueMetrics_17172590693140/Dashboard) to view the Tableau dashboard
 
 ## About the project
+This is my final project for GOIT's Data Analytics bootcamp.
+
 The aim of the project is to monitor key revenue metrics for a mobile game subscription-based business. By tracking these metrics, the dashboard helps identify trends that impact MRR and customer lifetime value, supporting data-driven decisions to optimize revenue and reduce churn.
 
 ## About the dataset
